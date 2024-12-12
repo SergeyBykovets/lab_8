@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>D:/Навчання/ІПЗ/lab_8</OriginalElement>
+  <nodes>
+    <node x="-389.0" y="202.0">work8.Singleton</node>
+    <node x="-625.6666666666666" y="262.0">work8.Client</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="-260.0" y="246.0" />
+  <SelectedNodes>
+    <node>work8.Singleton</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
